@@ -12,7 +12,7 @@ export default function Hero() {
           transition={{ duration: 0.6 }}
         >
           <h1>
-            Building clean, scalable <span className="highlight">web applications</span>
+            Building clean, scalable <span className="highlight">software applications</span>
           </h1>
 
           <p>
