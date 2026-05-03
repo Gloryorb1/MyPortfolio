@@ -17,7 +17,7 @@ export default function Navbar() {
 
       {/* CTA */}
       <div className="nav-right">
-        <a href="./Aaron_Maynard_Resume_20260425_1.pdf" className="resume-btn" target="_blank" rel="noopener noreferrer">
+        <a href="./Aaron_Maynard_Resume_20260425_1.pdfasdadsa" className="resume-btn" target="_blank" rel="noopener noreferrer">
           Resume
         </a>
       </div>
