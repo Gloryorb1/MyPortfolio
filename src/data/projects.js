@@ -9,8 +9,13 @@ export const projects = [
 
     // NEW
     images: [
+<<<<<<< Updated upstream
       "./projects/NoContent.png",
       "./projects/2D_Render.png"
+=======
+      "/projects/NoContent.png",
+      "/projects/2D_Render.png"
+>>>>>>> Stashed changes
     ],
     badges: ["Desktop App", "MVC", "MySQL", "Enterprise System", "WPF"]
   },
@@ -23,8 +28,13 @@ export const projects = [
     tech: "PHP/JS, MySQL, Mapping APIs",
 
     images: [
+<<<<<<< Updated upstream
       "./projects/NoContent.png",
       "./projects/NoContent.png"
+=======
+      "/projects/NoContent.png",
+      "/projects/NoContent.png"
+>>>>>>> Stashed changes
     ],
     badges: ["PHP", "Html", "Js", "MySQL", "MVC", "GIS", "RBAC"]
   },
@@ -37,8 +47,13 @@ export const projects = [
     tech: "Java/PHP/JS, MySQL, MVC",
 
     images: [
+<<<<<<< Updated upstream
       "./projects/NoContent.png",
       "./projects/NoContent.png"
+=======
+      "/projects/NoContent.png",
+      "/projects/NoContent.png"
+>>>>>>> Stashed changes
     ],
     badges: ["Marketplace", "RBAC", "Dashboards", "Job Tracking", "FullStack"]
   }
